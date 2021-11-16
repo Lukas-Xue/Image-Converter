@@ -2,8 +2,6 @@
 
 This project aims to develop, compile, run and test C programs in a Linux environmentconvert. Imgcvtr manipulates input Portable Pixel Map (PPM) files and outputs a new image based on its given options. Emory Honor Code applies. 
 
-</br>
-
 #### Synopsis (Usage):
 
 ```console
