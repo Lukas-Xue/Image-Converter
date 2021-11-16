@@ -4,8 +4,8 @@ Imgcvtr manipulates input Portable Pixel Map (PPM) files and outputs a new image
 
 #### Synopsis (Usage):
 
-```console
-foo@rxluke:~$ ./imgcvtr [bg:i:r:smt:n:o:] file_name
+```bash
+foo@rxluke:~$ imgcvtr [bg:i:r:smt:n:o:] file_name
 ```
 
 #### Options:
@@ -20,7 +20,7 @@ foo@rxluke:~$ ./imgcvtr [bg:i:r:smt:n:o:] file_name
 
 #### Example:
 
-```console
-foo@rxluke:~$ ./imgcvtr -o out.pbm in.ppm
+```bash
+foo@rxluke:~$ imgcvtr -o out.pbm in.ppm
 ```
 
